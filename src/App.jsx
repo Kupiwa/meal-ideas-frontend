@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { ChefHat, Plus, X, Sparkles, Clock, Users } from 'lucide-react';
 
-const API_URL = 'https://meal-ideas.onrender.com/';
+const API_URL = 'https://meal-ideas.onrender.com/api';
 
 export default function App() {
   const [ingredients, setIngredients] = useState([]);
