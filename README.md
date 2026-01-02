@@ -4,7 +4,8 @@
 
 Make a Meal is an intelligent recipe suggestion application that helps you discover what you can cook with the ingredients you have in your kitchen. Simply input your available ingredients, and let AI suggest creative meal ideas with detailed recipes and cooking instructions.
 
-![Make a Meal Demo](./public/screenshot.png)
+![Screenshot_20260102-152538 (1)](https://github.com/user-attachments/assets/73628df6-7c0a-4a7e-95f8-5b3b3d4d70f1)
+
 
 🔗 **Live Demo**: [https://meal-ideas-frontend.vercel.app](https://meal-ideas-frontend.vercel.app)
 
